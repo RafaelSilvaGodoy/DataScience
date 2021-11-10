@@ -9,5 +9,7 @@ Each folder in this repository will contain a different project with a different
 ## House Price Prediction
 
 >In this notebook different models will be built to classify if a house costs over $220,000.
+>
 >All the **CRISP-DM methodology** will be applied as well as **pipelines for deployment**.
+>
 >Ensembling models will also be approached.
